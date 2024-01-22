@@ -80,10 +80,10 @@ const TicketForm = () => {
           id="category"
           onChange={handleChange}
         >
-          <option value="hardware">Hardware</option>
-          <option value="connectivity">Connectivity</option>
-          <option value="purchasing">Purchasing</option>
-          <option value="warranty">Warranty Claim</option>
+          <option value="Hardware">Hardware</option>
+          <option value="Connectivity">Connectivity</option>
+          <option value="Purchasing">Purchasing</option>
+          <option value="Warranty">Warranty Claim</option>
         </select>
 
         {/* Priority */}
