@@ -156,9 +156,9 @@ const TicketForm = () => {
           value={formData.status}
           onChange={handleChange}
         >
-          <option value="not started">Not Started</option>
-          <option value="started">Started</option>
-          <option value="done">Done</option>
+          <option value="Not Started">Not Started</option>
+          <option value="Started">Started</option>
+          <option value="Done">Done</option>
         </select>
 
         {/* Submit */}
